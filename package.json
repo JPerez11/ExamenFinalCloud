@@ -1,9 +1,9 @@
 {
-  "name": "bd2",
+  "name": "examen-final-cloud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://jperez11.github.io/bd2/",
+  "homepage": "https://jperez11.github.io/examen-final-cloud/",
   "scripts": {
     "start": "node index"
   },
